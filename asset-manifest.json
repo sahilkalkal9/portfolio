@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.81ebd481.css",
-    "main.js": "/static/js/main.51a0e35f.js",
+    "main.css": "/static/css/main.23266bb3.css",
+    "main.js": "/static/js/main.c63b34c8.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/chemictionary.png": "/static/media/chemictionary.dfa7bd24ae441aa6516d.png",
+    "static/media/strayfarm.png": "/static/media/strayfarm.e0fc9a5f90771bf99d68.png",
     "static/media/backI.jpg": "/static/media/backI.92ed705d87a7a888cf6c.jpg",
+    "static/media/instagram.png": "/static/media/instagram.1792ff30fb032c94685c.png",
+    "static/media/todo.png": "/static/media/todo.8bc44318e2afab2d0d1b.png",
+    "static/media/folders.png": "/static/media/folders.e243d6512347d91e48a1.png",
+    "static/media/resume.png": "/static/media/resume.ac60ac2faebbafc25f18.png",
     "index.html": "/index.html",
-    "main.81ebd481.css.map": "/static/css/main.81ebd481.css.map",
-    "main.51a0e35f.js.map": "/static/js/main.51a0e35f.js.map",
+    "main.23266bb3.css.map": "/static/css/main.23266bb3.css.map",
+    "main.c63b34c8.js.map": "/static/js/main.c63b34c8.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.81ebd481.css",
-    "static/js/main.51a0e35f.js"
+    "static/css/main.23266bb3.css",
+    "static/js/main.c63b34c8.js"
   ]
 }
