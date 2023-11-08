@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.8e5e9698.css",
-    "main.js": "/static/js/main.2a6373dc.js",
+    "main.js": "/static/js/main.24f34871.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/menu.gif": "/static/media/menu.a5e7eeae15490f6d1b1c.gif",
     "static/media/instagram.png": "/static/media/instagram.1792ff30fb032c94685c.png",
@@ -10,6 +10,7 @@
     "static/media/chemictionary.png": "/static/media/chemictionary.dfa7bd24ae441aa6516d.png",
     "static/media/strayfarm.png": "/static/media/strayfarm.e0fc9a5f90771bf99d68.png",
     "static/media/backI.jpg": "/static/media/backI.fdf9c7d39e6c488f12ee.jpg",
+    "static/media/logo.png": "/static/media/logo.1fb5c5e09e66f2c3b13d.png",
     "static/media/react.png": "/static/media/react.17e5cb984343d1346ebd.png",
     "static/media/sql.png": "/static/media/sql.96af83e68e3b32fb2dd7.png",
     "static/media/tac.png": "/static/media/tac.966b8ad4ea0da15e96c1.png",
@@ -30,11 +31,11 @@
     "static/media/firebase.png": "/static/media/firebase.6b405206252ff65ef584.png",
     "index.html": "/index.html",
     "main.8e5e9698.css.map": "/static/css/main.8e5e9698.css.map",
-    "main.2a6373dc.js.map": "/static/js/main.2a6373dc.js.map",
+    "main.24f34871.js.map": "/static/js/main.24f34871.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8e5e9698.css",
-    "static/js/main.2a6373dc.js"
+    "static/js/main.24f34871.js"
   ]
 }
