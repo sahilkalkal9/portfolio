@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.64a9136f.css",
-    "main.js": "/static/js/main.ad007320.js",
+    "main.js": "/static/js/main.174d4ead.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/dk.jpg": "/static/media/dk.be80e6a0d72f2a91106a.jpg",
     "static/media/menu.gif": "/static/media/menu.a5e7eeae15490f6d1b1c.gif",
@@ -9,6 +9,7 @@
     "static/media/instagram.png": "/static/media/instagram.1792ff30fb032c94685c.png",
     "static/media/resume.pdf": "/static/media/resume.0b7f1451befa09b67394.pdf",
     "static/media/me.jpg": "/static/media/me.6f5f0c005b81c6e49dbe.jpg",
+    "static/media/arhslt.png": "/static/media/arhslt.9afd3c55153b4d1bba79.png",
     "static/media/chemictionary.png": "/static/media/chemictionary.dfa7bd24ae441aa6516d.png",
     "static/media/strayfarm.png": "/static/media/strayfarm.e0fc9a5f90771bf99d68.png",
     "static/media/lk3d.png": "/static/media/lk3d.60911da4340b292b45c7.png",
@@ -36,11 +37,11 @@
     "static/media/firebase.png": "/static/media/firebase.6b405206252ff65ef584.png",
     "index.html": "/index.html",
     "main.64a9136f.css.map": "/static/css/main.64a9136f.css.map",
-    "main.ad007320.js.map": "/static/js/main.ad007320.js.map",
+    "main.174d4ead.js.map": "/static/js/main.174d4ead.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.64a9136f.css",
-    "static/js/main.ad007320.js"
+    "static/js/main.174d4ead.js"
   ]
 }
